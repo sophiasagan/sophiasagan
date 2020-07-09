@@ -6,7 +6,7 @@
     <br>I am currently studying Full Stack Web Development at Lambda School<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> 
       <br>My current interests are doing projects involving 
       <br><em> Software Development, Data Analysis, and Machine Learning</em> 
-    <br>Love Solving Problems through Algorithms<br>     
+<!--     <br>Love Solving Problems through Algorithms<br>      -->
     <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:sofi.c.jung@gmail.com?subject=Let's Build Together">sofi.c.jung@gmail.com</a>
     <br><br><em>also.. new portfolio coming soon</em>
