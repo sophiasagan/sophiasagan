@@ -5,7 +5,7 @@
     Hi there :wave: I'm Sophia 
     <br>I am currently studying Full Stack Web Development at Lambda School<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
       <br>My current interests are doing projects involving 
-      <br><em> Web Development, Software Development, Data Analysis, and Machine Learning</em><br> 
+      <br><em> Web Development, Software Development, Data Analytics, and Machine Learning</em><br> 
 <!--     <br>Love Solving Problems through Algorithms<br>      -->
 <!--     <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center"> -->
     <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="240px" align="center">
