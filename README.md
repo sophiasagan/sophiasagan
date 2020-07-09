@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
   <br><br>
   <samp>
-    :wave: Hi there ツ I'm Sophia 
+    :wave: Hi there I'm Sophia 
     <br>I am currently studying Full Stack Web Development at Lambda School
       <br> 
     <br>  <em></em>  <em>  </em> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">      
