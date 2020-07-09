@@ -1,10 +1,11 @@
 ### Sophia Jung 👋
 
 
+<p align="center" >
 
 Hello, I'm Sophia - a Lambda School student studying Full-Stack Web Development. 
 
-<p align="center" >
+
   <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="150px">
 
 <!--
