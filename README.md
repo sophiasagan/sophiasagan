@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hi there :wave: I'm Sophia 
-    <br>I am currently studying Full Stack Web Development at Lambda School<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> 
+    <br>I am currently studying Full Stack Web Development at Lambda School<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
       <br>My current interests are doing projects involving 
       <br><em> Software Development, Data Analysis, and Machine Learning</em><br> 
 <!--     <br>Love Solving Problems through Algorithms<br>      -->
