@@ -4,9 +4,8 @@
   <samp>
     :wave: Hi there ツ I'm Sophia 
     <br>I am currently studying Full Stack Web Development at Lambda School
-      <br>be the best version of themselves 
-    <br>through  <em>design</em> & <em> code </em> <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="20px"><br><br>
-    <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
+      
+    <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:sofi.c.jung@gmail.com?subject=Let's Build Together">sofi.c.jung@gmail.com</a>
     <br><br><em>also.. new portfolio coming soon</em>
   </samp>
