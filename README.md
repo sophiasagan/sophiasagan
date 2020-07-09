@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3FjuotitkhOffmPamc/giphy.gif" width="50px">
   <br><br>
   <samp>
-    :wave: Hi there I'm Sophia 
+    Hi there :wave: I'm Sophia 
     <br>I am currently studying Full Stack Web Development at Lambda School<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> 
       <br> 
     <br>  <em></em>  <em>  </em>      
@@ -10,7 +10,7 @@
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:sofi.c.jung@gmail.com?subject=Let's Build Together">sofi.c.jung@gmail.com</a>
     <br><br><em>also.. new portfolio coming soon</em>
   </samp>
-  <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">
+<!--   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px"> -->
 </p>
 <!--
 **sophiasagan/sophiasagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
