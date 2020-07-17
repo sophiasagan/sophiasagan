@@ -9,14 +9,12 @@
 <!--     <br>Love Solving Problems through Algorithms<br>      -->
     
 <br>    
-
-<img src="https://sophiasagan-visitor-badge.glitch.me/badge">
-
 <br>
 <!--     <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center"> -->
     <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:sofi.c.jung@gmail.com?subject=Let's Build Together"> Email Me! </a>
-    <br><br><em>also.. new portfolio coming soon</em>
+    <br><br>[![Sophia's github stats](https://github-readme-stats.vercel.app/api?username=sophiasagan)](https://github.com/sophiasagan/github-readme-stats)
+
   </samp>
 <!--   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px"> -->
 </p>
