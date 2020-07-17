@@ -8,7 +8,10 @@
       <br><em> Web Development, Software Development, Data Analytics, and Machine Learning</em><br> 
 <!--     <br>Love Solving Problems through Algorithms<br>      -->
     <br>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=sophiasagan)
+    
+
+<img src="https://sophiasagan-visitor-badge.glitch.me/badge">
+
 <br>
 <!--     <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center"> -->
     <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="240px" align="center">
