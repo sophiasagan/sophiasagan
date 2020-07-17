@@ -12,6 +12,7 @@
 <!--     <img src="https://www.hipsthetic.com/wp-content/uploads/2016/03/80s-Computer.gif" width="240px" align="center"> -->
     <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:sofi.c.jung@gmail.com?subject=Let's Build Together"> Email Me! </a>
+    <br><br>
 <!--     <br><br>[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sophiasagan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
   </samp>
