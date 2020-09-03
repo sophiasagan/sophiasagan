@@ -28,6 +28,6 @@ const sophia = {
 }
 ```
 
-<img src="https://media.giphy.com/media/QAa5mWkXUQbT8JRAp0/giphy.gif" width="60"> <em><b>Need a distraction today? Not only does 12 + 1 = 11 + 2, but the letters "twelve plus one" rearrange to give you "eleven plus two."</b> Neil deGrasse Tyson</em>
+<img src="https://media.giphy.com/media/3oge8j7n2BR43KDPyM/giphy.gif" width="60"> <em><b>Need a distraction today? Not only does 12 + 1 = 11 + 2, but the letters "twelve plus one" rearrange to give you "eleven plus two."</b> Neil deGrasse Tyson</em>
 
 ---
