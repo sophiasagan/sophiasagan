@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/PmnZpShBXOPHa/giphy.gif"> -->
-<h2> Hi, I'm Sophia Jung! <img src="https://media.giphy.com/media/PmnZpShBXOPHa/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sophia Jung! <img src="https://media.giphy.com/media/Ws45ZkIbY1r3ZOONYK/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
