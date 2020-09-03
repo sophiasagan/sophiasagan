@@ -9,7 +9,7 @@
 [![GitHub Sophiasagan](https://img.shields.io/github/followers/sophiasagan?label=follow&style=social)](https://github.com/Sophiasagan)
 
 
-### <img src="https://media.giphy.com/media/RLQhcpM3xnZQWG6KUL/giphy.gif"> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> A little more about me...  
 
 ```javascript
 const sophia = {
