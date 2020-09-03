@@ -28,6 +28,6 @@ const sophia = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so say <b>hi, I like it when it people say hi!</b> :)</em>
+<img src="https://media.giphy.com/media/QAa5mWkXUQbT8JRAp0/giphy.gif" width="60"> <em><b>Need a distraction today? Not only does 12 + 1 = 11 + 2, but the letters "twelve plus one" rearrange to give you "eleven plus two."</b> Neil deGrasse Tyson</em>
 
 ---
