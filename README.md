@@ -16,14 +16,14 @@ const sophia = {
   pronouns: "she" | "her",
   otherAlias: "Full Stack Developer", 
   askMeAbout: ["web dev", "tech", "astronomy"]
-  code: [Javascript, HTML, CSS, Ruby, Python, Java, R, SQL],
-  otherTools: [React, Redux, Node, Express, Styled-Components, Jest, Django, Ethereum, Ganache, MatLab, Docker, Remix],
+  code: [Javascript, HTML, CSS, Python, Java, R, SQL],
+  otherTools: [React, Redux, Node, Express, Firebase, AWS, Jest, Ethereum, Ganache, MatLab, Docker],
   architecture: ["Progressive web applications", "Single page applications"],
   techCommunities: {
                         member: "Women Who Code",
                         member: "Tech Ladies",                        
                       },
- currentlyLearning: "Algorithms", "Solidity", "Django", "Ethical Hacking",
+ currentlyLearning: "Algorithms", "Ethical Hacking",
  availableForHire: true
 }
 ```
