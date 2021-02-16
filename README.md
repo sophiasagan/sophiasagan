@@ -18,7 +18,7 @@ const sophia = {
   askMeAbout: ["web dev", "tech", "astronomy"]
   code: [Javascript, HTML, CSS, Python, Java, R, SQL],
   otherTools: [React, Redux, Node, Express, Firebase, AWS, Jest,
-              GraphQL, Gatsby, Selenium, MatLab, Docker],
+              GraphQL, Gatsby, Ethereum, MatLab, Docker],
   architecture: ["Progressive web applications", "Single page applications"],
   techCommunities: {
                         member: "Women Who Code",
