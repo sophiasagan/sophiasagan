@@ -24,7 +24,7 @@ const sophia = {
                         member: "Women Who Code",
                         member: "Tech Ladies",                        
                       },
- currentlyLearning: "Algorithms", "Ethical Hacking", 
+ currentlyLearning: "DataOps/MLOps", "Machine Learning", 
  availableForHire: true
 }
 ```
