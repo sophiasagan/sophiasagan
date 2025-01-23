@@ -4,7 +4,7 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: SophiaJung](https://img.shields.io/twitter/follow/KingSofieJ?style=social)](https://twitter.com/KingSofieJ)
+
 [![Linkedin: sophiajung](https://img.shields.io/badge/-sophiabraddockjung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophiabraddockjung/)](https://www.linkedin.com/in/sophiabraddockjung/)
 [![GitHub Sophiasagan](https://img.shields.io/github/followers/sophiasagan?label=follow&style=social)](https://github.com/Sophiasagan)
 
