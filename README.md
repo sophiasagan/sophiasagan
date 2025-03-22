@@ -32,3 +32,5 @@ const sophia = {
 <img src="https://media.giphy.com/media/3oge8j7n2BR43KDPyM/giphy.gif" width="60"> <em><b>Need a distraction today? Not only does 12 + 1 = 11 + 2, but the letters "twelve plus one" rearrange to give you "eleven plus two."</b> Neil deGrasse Tyson</em>
 
 ---
+
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=sophiasagan&show_icons=true&theme=dark)](https://github.com/sophiasagan)
