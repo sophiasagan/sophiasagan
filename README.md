@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/PmnZpShBXOPHa/giphy.gif"> -->
 <h2> Hi, I'm Sophia Jung! <img src="https://media.giphy.com/media/Ws45ZkIbY1r3ZOONYK/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <p><em>Software Engineer<img src="https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30"> 
 </em></p>
 
@@ -9,7 +9,7 @@
 [![GitHub Sophiasagan](https://img.shields.io/github/followers/sophiasagan?label=follow&style=social)](https://github.com/Sophiasagan)
 
 
-### <img src="https://media.giphy.com/media/8vR3JJvHpCKn0t5pEW/giphy.gif" width="30"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const sophia = {
