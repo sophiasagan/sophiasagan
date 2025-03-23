@@ -14,7 +14,6 @@ A little more about me...
 ```javascript
 const sophia = {
   pronouns: "she" | "her",
-  otherAlias: "Engineer", 
   askMeAbout: ["AI","data", "machine learning", "astronomy"]
   code: [Javascript, HTML, CSS, Python, Java, R, SQL, PHP],
   otherTools: [React, Node, AWS, Docker, GCP, Azure],
