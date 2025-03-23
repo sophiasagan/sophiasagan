@@ -18,7 +18,6 @@ const sophia = {
   askMeAbout: ["AI","data", "machine learning", "astronomy"]
   code: [Javascript, HTML, CSS, Python, Java, R, SQL, PHP],
   otherTools: [React, Node, AWS, Docker, GCP, Azure],
-  architecture: ["Progressive web applications", "Single page applications"],
   techCommunities: {
                         member: "Women Who Code",
                         member: "Tech Ladies",                        
