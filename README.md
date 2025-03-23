@@ -14,17 +14,16 @@
 ```javascript
 const sophia = {
   pronouns: "she" | "her",
-  otherAlias: "Full Stack Developer", 
-  askMeAbout: ["web dev", "tech", "astronomy"]
+  otherAlias: "Engineer", 
+  askMeAbout: ["AI","data", "machine learning", "astronomy"]
   code: [Javascript, HTML, CSS, Python, Java, R, SQL, PHP],
-  otherTools: [React, Redux, Node, Express, Firebase, AWS, Jest,
-              GraphQL, Gatsby, Ethereum, MatLab, Docker],
+  otherTools: [React, Node, AWS, Docker, GCP, Azure],
   architecture: ["Progressive web applications", "Single page applications"],
   techCommunities: {
                         member: "Women Who Code",
                         member: "Tech Ladies",                        
                       },
- currentlyLearning: "DataOps/MLOps", "Machine Learning", 
+ currentlyLearning: "DataOps", "Robotics", "IoT",
  availableForHire: true
 }
 ```
@@ -32,5 +31,3 @@ const sophia = {
 <img src="https://media.giphy.com/media/3oge8j7n2BR43KDPyM/giphy.gif" width="60"> <em><b>Need a distraction today? Not only does 12 + 1 = 11 + 2, but the letters "twelve plus one" rearrange to give you "eleven plus two."</b> Neil deGrasse Tyson</em>
 
 ---
-
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=sophiasagan&show_icons=true&theme=dark)](https://github.com/sophiasagan)
