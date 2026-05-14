@@ -7,6 +7,8 @@
 
 [![Linkedin: sophiajung](https://img.shields.io/badge/-sophialjung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophialjung/)](https://www.linkedin.com/in/sophialjung/)
 [![GitHub Sophiasagan](https://img.shields.io/github/followers/sophiasagan?label=follow&style=social)](https://github.com/Sophiasagan)
+![Profile Views](https://komarev.com/ghpvc/?username=sophiasagan&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 
 
 A little more about me...  
